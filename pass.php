@@ -11,7 +11,7 @@ continue;
 }
   elseif($pass!=="Cocentz gaskeu"){
 echo$kn."[$red!$kn]$pth Cocentz$pth [$red Access denied$pth ]".$t;
-echo$kn."[$red!$kn]$pth Code Unlock use code ( 626356 )".$t." untuk mendapatkan Password ! ".$t." dan kalo udah use code unlock".$t." PM +6285218219161".$t;
+echo$kn."[$red!$kn]$pth Code Unlock use code ( 181626356 )".$t." untuk mendapatkan Password ! ".$t." dan kalo udah use code unlock".$t." PM +6285218219161".$t;
 
 exit;
  }
